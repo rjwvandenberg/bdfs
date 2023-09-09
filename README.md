@@ -50,3 +50,6 @@ Finally you can run:
 node index.js checkcurrent <base>
 ```
 Which is a sanity check to validate all version 1000 files are present and have the correct size.
+
+## Resources
+In researching the fileformats the most useful information was found on Xentax Forums, Ragezone forums and [QuickBMS](http://aluigi.altervista.org/quickbms.htm). I'm sure there were more sources, but they're impossible to recall three years after writing this program.
