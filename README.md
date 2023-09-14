@@ -1,5 +1,5 @@
 BDFS is game file unpacker for Black Desert (bdo). Last updated around mid year 2020.
-(Will not decode without entry of decode key in 'src/wasm.ts' and WASM compilation of the [ICE encryption library](https://darkside.com.au/ice/index.html))
+(Will not decode without entry of decode key in 'src/wasm.ts', WASM compilation of the [ICE encryption library](https://darkside.com.au/ice/index.html) and wasm/icelib.c adapter)
 
 ## Features
 - Full extraction of gamefiles
